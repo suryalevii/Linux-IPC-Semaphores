@@ -129,10 +129,10 @@ int main(void) {
 
 ## OUTPUT
 $ ./sem.o 
-![Alt text](<Screenshot at 2026-05-13 05-58-55.png>)
+![Alt text](<Screenshot at 2026-05-14 04-35-58.png>)
 
 $ ipcs
-![Alt text](<Screenshot at 2026-05-13 05-58-55.png>)
+![Alt text](<Screenshot at 2026-05-14 04-36-08.png>)
 
 
 
